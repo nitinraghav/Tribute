@@ -1,0 +1,57 @@
+@import url("https://fonts.googleapis.com/css?family=Hind:400,500,600|Roboto+Slab");
+body {
+  margin: 0;
+  padding: 0;
+}
+
+* {
+  background: #b6b6b4;
+  font-family: "Roboto Slab", sans-serif;
+  line-height: 1.8em;
+  margin: 15px;
+}
+
+header h1 {
+  color: #006699;
+  font-size: 3.2em;
+  margin-top: 10vh;
+}
+
+header h4 {
+  font-size: 1.7em;
+}
+
+img {
+  width: 100%;
+  border: 2px solid #008080;
+  border-radius: 4px;
+}
+
+blockquote {
+  margin-top: 5vh;
+  color: #008080;
+  font-size: 1.5em;
+}
+
+cite {
+  color: #306754;
+  font-size: 1.2em;
+}
+
+#content {
+  font-size: 1.2em;
+  font-family: 'Hind', sans-serif;
+}
+
+#timeline {
+  font-weight: 600;
+}
+
+strong {
+  font-size: 1.2em;
+}
+
+#wikiLink {
+  font-size: 1.4em;
+  color: #008080;
+}
